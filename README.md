@@ -1,1 +1,0 @@
-# genai-knowledge-base-assistant
